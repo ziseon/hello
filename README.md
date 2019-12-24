@@ -1,2 +1,2 @@
 # hello
-Hello,world!
+[Hello,world!](blog.mrning.com)
