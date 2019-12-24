@@ -1,2 +1,2 @@
 # hello
-[Hello,world!](blog.mrning.com)
+[Hello,world!](https://blog.mrning.com/?from=ziseon)
